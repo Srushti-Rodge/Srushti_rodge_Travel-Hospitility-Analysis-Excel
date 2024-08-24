@@ -17,3 +17,8 @@ This project features a dashboard created using Excel, which analyzes data and t
 
 ## Refined Data
 ![Refined Data](https://drive.google.com/uc?export=view&id=1ofzcrksYxTU06UtAGC7igMHds1XvVLWR)
+
+You can Check the full project from the below drive link: Drive link :
+"https://docs.google.com/spreadsheets/d/13itdeVabeL3DLnvK6m88YZtmTRSkwVF4/edit?usp=sharing&ouid=115453509388634668066&rtpof=true&sd=true"
+It may take a while for the dataset to load in Excel, so please be prepared for that.
+I appreciate your valuable feedback in advance.
